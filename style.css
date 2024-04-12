@@ -397,3 +397,96 @@ ul li a{
     }
     
 }
+@media (max-width: 500px){
+    .header{
+        width: 425px;
+        height: 77px;
+        
+    }
+    .nav a{
+        display: none;
+    }
+    #menu-icon{
+        font-size: 3.6rem;
+        color: rgb(250, 250, 250);
+        margin-left: 60px;
+    }
+    .home{
+        width: 425px;
+        height: 208px;
+        min-height: 208px;
+        top: 77px;
+    }
+    .form{
+        position: absolute;
+        width: 425px;
+        height: 294px;
+        top: 285px;
+        left: auto;
+        padding: 24px, 20px, 32px, 20px;
+        gap: 20px;
+    }
+    .form h1{
+        font-size: 34px;
+        line-height: 36px;
+        width: 410px;
+        height: 180px;
+    }
+    .card.mb-3{
+        margin-top: -300px;
+        border:none;
+        margin-left: -25px;
+        width: 410px;
+        height: 572px;
+        top: 649px;
+    }
+    h5.card-title ,p.card-text{
+        text-align: center;
+    }
+    .info{
+        margin-top: 500px;
+    }
+    .row img.rounded-start-2{
+        margin-top: -200px;
+    }
+    .button .btn{
+        margin-left: 130px;
+        align-content: center;
+    }
+    h2.title{
+        margin-top: 800px;
+    }
+    .faq-section{
+        width: 334px;
+        height: 769px;
+       margin: auto;
+    }
+    .faq{
+        width: 334px;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    h2.title{
+        text-align: center;
+    }
+    .faq-plus{
+        float: right;
+        font-size: 25px;
+        margin-top: -60px;
+        margin-left: 100px;
+        font-weight: 600;
+    }
+    footer{
+        margin-top: 780px;
+        width: 425px;
+    }
+    .footer-container{
+        margin-left: 20px ;
+        padding: 1rem 0 0 1rem;
+    }
+    .p-3{
+        width: 100%;
+        
+    }
+    
+}
