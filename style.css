@@ -301,7 +301,7 @@ ul li a{
     }
 }
 
-@media (max-width: 375px){
+@media (max-width: 425px){
     .header{
         width: 375px;
         height: 77px;
@@ -385,6 +385,7 @@ ul li a{
     }
     footer{
         margin-top: 780px;
+        width: 375px;
     }
     .footer-container{
         margin-left: 20px ;
