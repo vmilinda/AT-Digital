@@ -267,7 +267,7 @@ ul li a{
         left: 0;
         width: 100%;
         padding: 1rem 3%;
-        background: #6B3CC9;
+        background: #ffffff;
         border-top: .1rem solid rgba(0,0,0, .2);
         box-shadow: 0 .5rem 1rem rgba(0,0,0, .2);
     }
@@ -275,6 +275,7 @@ ul li a{
         display: block;
         margin-top: 3rem;
         margin-bottom: 3rem;
+        color: #000000;
     }
     .nav.active{
         display: block;
